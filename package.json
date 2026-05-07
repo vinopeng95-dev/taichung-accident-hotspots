@@ -1,0 +1,12 @@
+{
+  "name": "traffic-weather-api",
+  "version": "1.0.0",
+  "description": "台中市十大肇事路口及台灣天氣查詢 API",
+  "type": "module",
+  "scripts": {
+    "dev": "node api/road.js"
+  },
+  "keywords": ["traffic", "weather", "taichung", "taiwan"],
+  "author": "",
+  "license": "MIT"
+}
